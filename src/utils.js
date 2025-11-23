@@ -4,7 +4,7 @@ export const getRandomInt = (min, max) => {
   return Math.floor(Math.random() * (maxFloored - minCeiled + 1)) + minCeiled
 }
 
-export const isEven = (num) => num % 2 === 0
+export const isEven = num => num % 2 === 0
 
 export const getGcd = (a, b) => {
   if (b === 0) {

@@ -19,7 +19,6 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
     "@stylistic/eslint-plugin-js": "^2.0.0"
   }
 }
