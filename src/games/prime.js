@@ -1,6 +1,6 @@
 import { getRandomInt, isPrime } from '../utils.js';
 
-const description = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+const description = 'Answer "yes" if given number is prime. Otherwise answer "no".';
 
 const generateRound = () => {
   const number = getRandomInt(2, 100);

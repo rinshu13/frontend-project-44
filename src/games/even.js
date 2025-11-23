@@ -1,6 +1,6 @@
 import { getRandomInt, isEven } from '../utils.js';
 
-const description = 'Answer "yes" if the number is even, otherwise answer "no".'
+const description = 'Answer "yes" if the number is even, otherwise answer "no".';
 
 const generateRound = () => {
   const number = getRandomInt(1, 100);
