@@ -25,4 +25,4 @@ module.exports = {
     '@stylistic/js/no-trailing-spaces': 'error',
     '@stylistic/js/no-multi-spaces': 'error',
   },
-};
+}
